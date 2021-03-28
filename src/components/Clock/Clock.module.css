@@ -1,0 +1,19 @@
+.ClockElement {
+  position: relative;
+  margin: 30px;
+}
+
+.Title {
+  margin: 0;
+  font-weight: bold;
+}
+
+.ButtonDel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
